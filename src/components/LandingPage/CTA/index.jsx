@@ -7,7 +7,7 @@ const CTA = () => {
         <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">
           Boost your studying and work with our platform
         </h2>
-        <p class="mt-6 text-lg leading-8 ">
+        <p class="mt-6 text-lg leading-8 text-gray-300 ">
           download all the files you need for your subjects or submit your work
           and get payed for it
         </p>
