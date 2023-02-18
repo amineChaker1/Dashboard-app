@@ -73,7 +73,7 @@ const Hero = () => {
                 />
               </svg>
             )}
-            <div className={`${toggle ? "hidden" : ""} `}>
+            <div className={`${toggle ? "hidden" : ""} absolute`}>
               <ul className="flex flex-col absolute ">
                 <li>
                   <a
